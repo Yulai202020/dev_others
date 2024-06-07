@@ -8,6 +8,7 @@ https://github.com/Yulai202020/a
 # c
 [c course](https://github.com/Yulai202020/c_course)
 [inotify](https://github.com/Yulai202020/inotify_example)
+[c calculator](https://github.com/Yulai202020/calculator_c)
 
 # sql
 [sql course](https://github.com/Yulai202020/sql_course)
