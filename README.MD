@@ -2,14 +2,9 @@
 [i3 configs](https://github.com/Yulai202020/i3-configs)
 
 # asm
-https://github.com/Yulai202020/asm_test
-https://github.com/Yulai202020/a
+[test asm](https://github.com/Yulai202020/asm_test)
 
-# c
-[c course](https://github.com/Yulai202020/c_course)
-[inotify](https://github.com/Yulai202020/inotify_example)
-[c calculator](https://github.com/Yulai202020/calculator_c)
-[my yes](https://github.com/Yulai202020/yes_c)
+[course on asm](https://github.com/Yulai202020/a)
 
 # sql
 [sql course](https://github.com/Yulai202020/sql_course)
@@ -19,6 +14,7 @@ https://github.com/Yulai202020/a
 
 # js
 [js course](https://github.com/Yulai202020/js-cource)
+
 [expressjs](https://github.com/Yulai202020/expressjs)
 
 # java
